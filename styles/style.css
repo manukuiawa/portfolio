@@ -147,13 +147,14 @@ body {
 
     .apresentacao__conteudo {
         width: 50%;
+        height: auto;
     }
    
     .rodape {
-        margin-top: 40rem;
+        margin-top: 2rem;
     }
     
     .rodape-2 {
-        margin-top: 80rem;
+        margin-top: 4rem;
     }
 }
