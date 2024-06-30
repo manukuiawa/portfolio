@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root {
-    --cor-primaria: #1A2130;
+    --cor-primaria: pink;
     --cor-secundaria: #FDFFE2;
     --cor-terciaria: #5A72A0;
     --cor-hover: #83B4FF;
@@ -154,6 +154,6 @@ body {
     }
     
     .rodape-2 {
-        margin-top: 50rem;
+        margin-top: 45rem;
     }
 }
