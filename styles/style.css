@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root {
-    --cor-primaria: pink;
+    --cor-primaria: #1A2130;
     --cor-secundaria: #FDFFE2;
     --cor-terciaria: #5A72A0;
     --cor-hover: #83B4FF;
@@ -127,7 +127,7 @@ body {
     font-size: 1.5rem;
     font-weight: 400;
     font-family: var(--fonte-secundária);
-    margin-top: 19rem;
+    margin-top: 30rem;
 }
 
 @media (max-width: 1200px) {
@@ -150,10 +150,10 @@ body {
     }
    
     .rodape {
-        margin-top: 17rem;
+        margin-top: 20rem;
     }
     
     .rodape-2 {
-        margin-top: 45rem;
+        margin-top: 40rem;
     }
 }
