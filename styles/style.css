@@ -105,7 +105,7 @@ body {
 }
 
 .apresentacao__img {
-    width: 50%;
+    width: 100%;
 }
 
 .rodape {
@@ -146,7 +146,14 @@ body {
     }
 
     .apresentacao__conteudo {
+        width: auto;
+        text-align: center;
+        padding: 0 10%;
+    }
+
+    .apresentacao__img {
         width: 50%;
+        max-width: none;
     }
    
     .rodape {
