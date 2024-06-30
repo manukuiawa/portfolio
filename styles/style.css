@@ -127,7 +127,7 @@ body {
     font-size: 1.5rem;
     font-weight: 400;
     font-family: var(--fonte-secundária);
-    margin-top: 30rem;
+    margin-top: 34rem;
 }
 
 @media (max-width: 1200px) {
@@ -146,14 +146,14 @@ body {
     }
 
     .apresentacao__conteudo {
-        width: auto;
+        width: 50%;
     }
    
     .rodape {
-        margin-top: 20rem;
+        margin-top: 40rem;
     }
     
     .rodape-2 {
-        margin-top: 40rem;
+        margin-top: 80rem;
     }
 }
