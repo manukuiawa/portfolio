@@ -149,17 +149,12 @@ body {
         width: auto;
         padding: 0 10%;
     }
-
-    .apresentacao__img {
-        width: 100%;
-        margin-right: 50rem;
-    }
    
     .rodape {
-        margin-top: 32rem;
+        margin-top: 36rem;
     }
     
     .rodape-2 {
-        margin-top: 54rem;
+        margin-top: 94rem;
     }
 }
