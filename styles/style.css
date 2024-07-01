@@ -147,20 +147,19 @@ body {
 
     .apresentacao__conteudo {
         width: auto;
-        text-align: center;
         padding: 0 10%;
     }
 
     .apresentacao__img {
-        width: 50%;
-        max-width: none;
+        width: 100%;
+        margin-right: 50rem;
     }
    
     .rodape {
-        margin-top: 2rem;
+        margin-top: 32rem;
     }
     
     .rodape-2 {
-        margin-top: 4rem;
+        margin-top: 54rem;
     }
 }
